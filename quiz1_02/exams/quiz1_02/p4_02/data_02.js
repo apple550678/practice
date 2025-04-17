@@ -49,6 +49,6 @@ const menu_xx = [
     remote_img: '',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita architecto, cupiditate molestias quisquam error quam blanditiis tempore quo dicta. Ipsa.',
   },
-];
+]
 
-export default menu_xx;
+export default menu_xx
